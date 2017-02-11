@@ -17,9 +17,9 @@
     ],
     "require": {
         "php": "^7.0",
-        "spatie/laravel-uptime-monitor": "^1.0",
-        "illuminate/support": "^5.3.24",
-        "illuminate/database": "^5.3.24",
+        "spatie/laravel-uptime-monitor": "^2.0",
+        "illuminate/support": "^5.4.11",
+        "illuminate/database": "^5.4.11",
         "damianopetrungaro/cachet-sdk": "^1.0"
     },
     "require-dev": {
